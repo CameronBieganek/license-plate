@@ -1,0 +1,12 @@
+Package: CLButils
+Type: Package
+Title: Miscellaneous R functions
+Version: 0.1.0
+Author: Cameron L. Bieganek
+Maintainer: Cameron L. Bieganek <clbieganek@gmail.com>
+Description: Miscellaneous R functions.
+Imports: qdapDictionaries
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
