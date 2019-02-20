@@ -1,10 +1,11 @@
-Package: CLButils
+Package: licenseplate
 Type: Package
-Title: Miscellaneous R functions
+Title: Find words for the license plate game
 Version: 0.1.0
 Author: Cameron L. Bieganek
 Maintainer: Cameron L. Bieganek <clbieganek@gmail.com>
-Description: Miscellaneous R functions.
+Description: Find words for the license plate game. Given three (or more) letters,
+    find all words that contain those letters in the given order.
 Imports: qdapDictionaries
 License: MIT
 Encoding: UTF-8
